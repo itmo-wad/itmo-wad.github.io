@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# First task
 
-You can use the [editor on GitHub](https://github.com/itmo-wad/itmo-wad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Reading → Coding → Deploy → Code-review
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Reading
+1. How to write a good git commit message (https://chris.beams.io/posts/git-commit/)
+2. About GitHub flow (https://guides.github.com/introduction/flow/)
+3. _if you don't know about git_ read this article (https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies)
 
-### Markdown
+## Coding
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Basic part
+1. Create static website for image gallery with HTML + CSS
+2. You are allowed to use any JS or CSS frameworks
+3. Website consists of header and body with equal sized square images
+4. Screen resolution is 1980x1200, you can optionally try to make it responsive
 
-```markdown
-Syntax highlighted code block
+### Optimal part
+5. Make 1px white border for hovered image (when cursor pointer is over the image)
+6. When image is on hover, it reveals caption
+7. Image on hover should be shadowed with 60%
 
-# Header 1
-## Header 2
-### Header 3
+### Challenging part
+8. After click, there should appear modal window with text
+9. This window can have image preview to the left and description with title to the right
 
-- Bulleted
-- List
+* It is recommended to do basic and optimal part with vanilla HTML+CSS
+* For challenging part you can use any framework, you like (for example, fancybox3)
 
-1. Numbered
-2. List
+## Deploy
 
-**Bold** and _Italic_ and `Code` text
+1. Register on GitHub: http://github.com/
+2. Create personal repository 
+3. Clone it, add your assessment #1 sources, commit, push
+4. Make sure that your repository is available on the GitHub
+5. `optional` Create [GitHub page](https://pages.github.com/) with your sources
 
-[Link](url) and ![Image](src)
-```
+## Code-review
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itmo-wad/itmo-wad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Communicate in Telegram chat
+2. Help others to complete the assessment

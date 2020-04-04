@@ -5,8 +5,10 @@ Reading → Coding → Deploy → Code-review
 ## Reading
 
 1. Python Flask big tutorial
-1.1. [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-1.2. [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
+
+     1.1 [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+     
+     1.2. [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
 2. HTML forms: [https://www.w3schools.com/html/html_forms.asp](https://www.w3schools.com/html/html_forms.asp)
 3. Markdown: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 

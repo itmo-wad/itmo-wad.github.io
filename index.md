@@ -1,4 +1,6 @@
-# ITMO WAD (Web Application Development) course. Spring 2020
+# ITMO WAD
+
+Web Application Development course. Spring 2020
 
 
 ## Available assignments

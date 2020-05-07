@@ -7,3 +7,4 @@
 [Task 3](assignments/task3.md)
 [Task 4](assignments/task4.md)
 [Task 5](assignments/task5.md)
+[Task 6](assignments/task6.md)

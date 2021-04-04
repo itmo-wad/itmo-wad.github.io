@@ -18,11 +18,12 @@ The first part of the task is to create a frontend of image gallery view.
 3. Website consists of header with title and body with image gallery
 4. Gallery should be responsive and look the same on the different screens
 5. Gallery consists of 3 columns
+6. Columns should be aligned to center in container with 900px width
 
 ![alt text](/images/homework1_1.png "Example image gallery design")
 
 ### Optimal part
-1. Gallery should process last images to fit the row as shown on the following image
+1. Gallery should process last images to fit the row as shown on the following images
 
 ![alt text](/images/homework1_2.png "Last row for 3k+2 images")
 ![alt text](/images/homework1_3.png "Last row for 3k+1 images")

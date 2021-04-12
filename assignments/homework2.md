@@ -23,13 +23,13 @@ Reading → Coding → Deploy → Code-review
 
 1. Create web application, which can host your image gallery:
 
-    * Listen on `localhost:5000`
+    1.1. Listen on `localhost:5000`
     
-    * Render HTML document on `http://localhost:5000/`
+    1.2. Render HTML document on `http://localhost:5000/`
     
-    * Show static images on `http://localhost:5000/img/<image_name>`
+    1.3. Show static images on `http://localhost:5000/img/<image_name>`
     
-    * Your external CSS and JS files should be returned on `http://localhost:5000/static/<js/css filename>`
+    1.4. Your external CSS and JS files should be returned on `http://localhost:5000/static/<js/css filename>`
     
 2. You are allowed to use any JS or CSS frameworks
 3. You are allowed to use only Python programming language and Flask framework
@@ -38,13 +38,13 @@ Reading → Coding → Deploy → Code-review
 
 1. Create web application, which emulates a chat with a human:
 
-    * Web page with messages log
+    1.1. Web page with messages log
     
-    * Input for writing new message
+    1.2. Input for writing new message
     
-    * Button for sending message to the server
+    1.3. Button for sending message to the server
     
-    * Sample HTML form:
+    1.4. Sample HTML form:
 ```
         <form method="POST" action="<http://localhost:5000/>">
             <textarea name="messages">{{ messages }}</textarea>
@@ -64,11 +64,11 @@ Reading → Coding → Deploy → Code-review
 
      3.2. There should be at least 10 rules describing typical conversation topics:
         
-        * current weather
+        3.2.1. current weather
         
-        * hello/greetings
+        3.2.2. hello/greetings
         
-        * ...
+        3.2.3. ...
 
 ### Challenging part
 
@@ -77,16 +77,16 @@ Reading → Coding → Deploy → Code-review
 1. Dialog should be kept on the server (global variable or text file)
 2. Robot should add new messages independently from user (every second new message)
 
-    * It can be done with another python script
+    2.1. It can be done with another python script
     
-    * Or it can be done with separate Thread
+    2.2. Or it can be done with separate Thread
 3. Message updates should be delivered to the user's page with the help of three methods (you can create three endpoints for this)
 
-    * polling new messages every 1 second
+    3.1. polling new messages every 1 second
     
-    * long polling new messages
+    3.2. long polling new messages
     
-    * (optionally) through websockets
+    3.3. (optionally) through websockets
 
 ## Deploy
 

@@ -22,20 +22,29 @@ Reading → Coding → Deploy → Code-review
 ### Basic part
 
 1. Create web application, which can host your image gallery:
-    - Listen on `localhost:5000`
-    - Render HTML document on `http://localhost:5000/`
-    - Show static images on `http://localhost:5000/img/<image_name>`
-    - Your external CSS and JS files should be returned on `http://localhost:5000/static/<js/css filename>`
+
+    * Listen on `localhost:5000`
+    
+    * Render HTML document on `http://localhost:5000/`
+    
+    * Show static images on `http://localhost:5000/img/<image_name>`
+    
+    * Your external CSS and JS files should be returned on `http://localhost:5000/static/<js/css filename>`
+    
 2. You are allowed to use any JS or CSS frameworks
 3. You are allowed to use only Python programming language and Flask framework
 
 ### Optimal part
 
 1. Create web application, which emulates a chat with a human:
-    - Web page with messages log
-    - Input for writing new message
-    - Button for sending message to the server
-    - Sample HTML form:
+
+    * Web page with messages log
+    
+    * Input for writing new message
+    
+    * Button for sending message to the server
+    
+    * Sample HTML form:
 ```
         <form method="POST" action="<http://localhost:5000/>">
             <textarea name="messages">{{ messages }}</textarea>
@@ -45,14 +54,21 @@ Reading → Coding → Deploy → Code-review
 ```        
 
 2. After the button click message should be sent to the server with `HTTP POST` to `http://localhost:5000/`:
-2.1. It is okay to send also all messages if you don't know how to keep them on the server.
-2.2. It is also okay to keep them in the global variable
+
+     2.1. It is okay to send also all messages if you don't know how to keep them on the server.
+
+     2.2. It is also okay to keep them in the global variable
 3. Robot should answer on a message according to the predefined set of rules
-3.1. Rules can be hardcoded as bases on the occurencies of different words
-3.2. There should be at least 10 rules describing typical conversation topics:
-    - current weather
-    - hello/greetings
-    - ...
+
+     3.1. Rules can be hardcoded as bases on the occurencies of different words
+
+     3.2. There should be at least 10 rules describing typical conversation topics:
+        
+        * current weather
+        
+        * hello/greetings
+        
+        * ...
 
 ### Challenging part
 
@@ -60,12 +76,17 @@ Reading → Coding → Deploy → Code-review
 
 1. Dialog should be kept on the server (global variable or text file)
 2. Robot should add new messages independently from user (every second new message)
-    - It can be done with another python script
-    - Or it can be done with separate Thread
+
+    * It can be done with another python script
+    
+    * Or it can be done with separate Thread
 3. Message updates should be delivered to the user's page with the help of three methods (you can create three endpoints for this)
-    - polling new messages every 1 second
-    - long polling new messages
-    - (optionally) through websockets
+
+    * polling new messages every 1 second
+    
+    * long polling new messages
+    
+    * (optionally) through websockets
 
 ## Deploy
 

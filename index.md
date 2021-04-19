@@ -7,6 +7,8 @@ Web Application Development course. Spring 2021
 
 [Homework 2](assignments/homework2.md)
 
+[Homework 3](assignments/homework3.md)
+
 ## Archive
 
 [2020](archive.md)

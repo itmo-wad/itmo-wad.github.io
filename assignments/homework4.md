@@ -22,6 +22,7 @@ Reading → Coding → Deploy → Code-review
 During this homework you can take the previous one and improve it.
 
 1. Create web application, which can authenticate user with password:
+
     1.1. Listen on `localhost:5000`
     
     1.2. Render authentication form on `http://localhost:5000/`

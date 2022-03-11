@@ -1,5 +1,15 @@
 # Archive
 
+## ITMO WAD 2021
+
+### Available assignments
+[Homework 1](assignments/2021/homework1.md)
+[Homework 2](assignments/2021/homework2.md)
+[Homework 3](assignments/2021/homework3.md)
+[Homework 4](assignments/2021/homework4.md)
+[Homework 5](assignments/2021/homework5.md)
+[Homework 6](assignments/2021/homework6.md)
+
 ## ITMO WAD 2020
 
 ### Available assignments

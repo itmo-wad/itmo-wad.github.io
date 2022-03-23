@@ -1,6 +1,7 @@
 # ITMO WAD 2022
 ## Lecture 1: Frontend & Backend
-### Slide and sample codes
+
+### Lecture slides
 
 [Course Introduction](0.%20Course%20introduction.pdf)
 

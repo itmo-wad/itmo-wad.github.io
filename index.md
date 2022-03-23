@@ -28,7 +28,12 @@ Through the course, you will learn about fundamentals of modern web application 
 ### Lecture 1: Frontend & Backend
 [Pre-reading](lectures/lecture_1/pre-reading.md)
 
-[Slides & samples](lectures/lecture_1/materials.md)
+[Lecture slides](lectures/lecture_1/materials.md)
+
+
+## Sample code
+
+[Sample code repository](https://github.com/itmo-wad/samples/)
 
 ## Assignments
 [Homework 1](assignments/2022/homework1.md)

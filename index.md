@@ -30,6 +30,9 @@ Through the course, you will learn about fundamentals of modern web application 
 
 [Lecture slides](lectures/lecture_1/materials.md)
 
+### Lecture 2: Authentication, Database
+
+[Lecture slides](lectures/lecture_2/materials.md)
 
 ## Sample code
 
@@ -37,6 +40,7 @@ Through the course, you will learn about fundamentals of modern web application 
 
 ## Assignments
 [Homework 1](assignments/2022/homework1.md)
+
 [Homework 2](assignments/2022/homework2.md)
 
 ## Archive

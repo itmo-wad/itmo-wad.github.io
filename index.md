@@ -37,6 +37,7 @@ Through the course, you will learn about fundamentals of modern web application 
 
 ## Assignments
 [Homework 1](assignments/2022/homework1.md)
+[Homework 2](assignments/2022/homework2.md)
 
 ## Archive
 

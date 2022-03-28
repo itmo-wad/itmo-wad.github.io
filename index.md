@@ -34,6 +34,9 @@ Through the course, you will learn about fundamentals of modern web application 
 
 [Lecture slides](lectures/lecture_2/materials.md)
 
+### Lecture 3: Deployment, teamwork
+[Pre-reading](lectures/lecture_3/pre-reading.md)
+
 ## Sample code
 
 [Sample code repository](https://github.com/itmo-wad/samples/)

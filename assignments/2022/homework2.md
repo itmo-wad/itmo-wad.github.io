@@ -25,7 +25,7 @@ In this home work, you will implement authentication feature for your web applic
 
 Implement notification. Active users will receive notification when a new account is created.
 
-## Deploy & Submittion
+## Deploy & Submission
 
 * Upload the code to a separate GitHub repository (https://github.com/itmo-wad/username-hw2)
 * Describe what you implemented in README.md

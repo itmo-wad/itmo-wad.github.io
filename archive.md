@@ -1,5 +1,14 @@
 # Archive
 
+## ITMO WAD 2022
+
+### Available assignments
+[Homework 1](assignments/2022/homework1.md)
+
+[Homework 2](assignments/2022/homework2.md)
+
+[Homework 3](assignments/2022/homework3.md)
+
 ## ITMO WAD 2021
 
 ### Available assignments

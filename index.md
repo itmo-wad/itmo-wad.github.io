@@ -29,6 +29,8 @@ Through the course, you will learn about fundamentals of modern web application 
 ## Assignments
 [Homework 1](assignments/2023/homework1.md)
 
+[![Optional - Extra 1](https://img.shields.io/badge/Optional-Extra_1-2ea44f)](assignments/2023/extra1.md)
+
 ## Archive
 
 [2020&2021&2022](archive.md)

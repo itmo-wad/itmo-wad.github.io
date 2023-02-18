@@ -18,6 +18,8 @@ Through the course, you will learn about fundamentals of modern web application 
 ## Syllabus
 1. Frontend
 2. Backend
+3. Authentication
+4. Database
 
 ## Lecture materials
 
@@ -26,8 +28,12 @@ Through the course, you will learn about fundamentals of modern web application 
 
 [Lecture slides](lectures/lecture_1/materials.md)
 
+### Lecture 2: Authentication & Database
+[Lecture slides](lectures/lecture_2/materials.md)
+
 ## Assignments
 [Homework 1](assignments/2023/homework1.md)
+[Homework 2](assignments/2023/homework2.md)
 
 [Extra 1](assignments/2023/extra1.md) [![Optional - Extra 1](https://img.shields.io/badge/-optional-orange)](assignments/2023/extra1.html)
 

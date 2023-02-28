@@ -6,7 +6,7 @@ This course covers all fundamental aspects of modern web application development
 
 ## Schedule
 
-Will be available soon. The next lesson on 11.02.2023 (10:00-12:30). Sankt-Peterburg, Pesochnaya Embankment, 14. Room 311.
+The next lesson on 03.03.2023 (18:40-21:50). Sankt-Peterburg, Pesochnaya Embankment, 14
 
 ## Course staffs
 
@@ -20,6 +20,8 @@ Through the course, you will learn about fundamentals of modern web application 
 2. Backend
 3. Authentication
 4. Database
+5. Production
+6. Docker
 
 ## Lecture materials
 
@@ -30,6 +32,9 @@ Through the course, you will learn about fundamentals of modern web application 
 
 ### Lecture 2: Authentication & Database
 [Lecture slides](lectures/lecture_2/materials.md)
+
+### Lecture 3: Production & Docker
+[Lecture slides](lectures/lecture_3/materials.md)
 
 ## Assignments
 [Homework 1](assignments/2023/homework1.md)

@@ -1,5 +1,14 @@
 # Archive
 
+## ITMO WAD 2023
+
+### Available assignments
+[Homework 1](assignments/2023/homework1.md)
+
+[Homework 2](assignments/2023/homework2.md)
+
+[Extra 1](assignments/2023/extra1.md) [![Optional - Extra 1](https://img.shields.io/badge/-optional-orange)](assignments/2023/extra1.html)
+
 ## ITMO WAD 2022
 
 ### Available assignments

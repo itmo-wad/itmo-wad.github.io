@@ -1,12 +1,12 @@
 # ITMO WAD
 
-Web Application Development course. Spring 2023
+Web Application Development course. Spring 2024
 
 This course covers all fundamental aspects of modern web application development: frontend, backend, authentication, database, deployment, teamwork.
 
 ## Schedule
 
-The next lesson on 03.03.2023 (18:40-21:50). Sankt-Peterburg, Pesochnaya Embankment, 14
+The next lesson on 09.02.2024 (18:40-21:50). Sankt-Peterburg, Pesochnaya Embankment, 14
 
 ## Course staffs
 
@@ -28,21 +28,6 @@ Through the course, you will learn about fundamentals of modern web application 
 ### Lecture 1: Frontend & Backend
 [Post-reading](lectures/lecture_1/post-reading.md)
 
-[Lecture slides](lectures/lecture_1/materials.md)
-
-### Lecture 2: Authentication & Database
-[Lecture slides](lectures/lecture_2/materials.md)
-
-### Lecture 3: Production & Docker
-[Lecture slides](lectures/lecture_3/materials.md)
-
-## Assignments
-[Homework 1](assignments/2023/homework1.md)
-
-[Homework 2](assignments/2023/homework2.md)
-
-[Extra 1](assignments/2023/extra1.md) [![Optional - Extra 1](https://img.shields.io/badge/-optional-orange)](assignments/2023/extra1.html)
-
 ## Archive
 
-[2020&2021&2022](archive.md)
+[2020&2021&2022&2023](archive.md)

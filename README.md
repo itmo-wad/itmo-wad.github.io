@@ -1,1 +1,1 @@
-# ITMO WAD (Web Application Development) course. Spring 2023
+# ITMO WAD (Web Application Development) course. Spring 2024

@@ -1,4 +1,4 @@
-# ITMO WAD 2023
+# ITMO WAD 2025
 ## Lecture 1: Frontend & Backend
 ### Post-lecture materials
 To have better understanding of the lecture content, please read/watch the following materials:
